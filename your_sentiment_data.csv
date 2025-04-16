@@ -1,0 +1,11 @@
+created_at,text,sentiment
+2024-01-01,I love this product!,positive
+2024-01-02,Worst experience ever.,negative
+2024-01-03,Not bad at all.,neutral
+2024-01-04,Totally awesome!,positive
+2024-01-05,I hate this.,negative
+2024-01-06,So-so service.,neutral
+2024-01-07,Amazing deal today!,positive
+2024-01-08,Disappointed with the quality.,negative
+2024-01-09,It's okay.,neutral
+2024-01-10,Best day ever!,positive
